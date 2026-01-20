@@ -1,0 +1,5 @@
+/venv/
+/.vscode/
+/build/
+/dist/
+/sound_concentration.spec
